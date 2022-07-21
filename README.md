@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kushal
 - 👀 I’m interested in Blockchain technology
 - 🌱 I’m currently learning Ethereum Virtual Machine and solidity
-- 💞️ I’m looking to collaborate on ethereum
 
 
 
